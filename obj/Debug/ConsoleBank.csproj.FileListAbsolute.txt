@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\bin\Debug\ConsoleBank.exe.config
+C:\Users\Пользователь\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\bin\Debug\ConsoleBank.exe
+C:\Users\Пользователь\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\bin\Debug\ConsoleBank.pdb
+C:\Users\Пользователь\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\obj\Debug\ConsoleBank.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\obj\Debug\ConsoleBank.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\obj\Debug\ConsoleBank.exe
+C:\Users\Пользователь\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\obj\Debug\ConsoleBank.pdb
+C:\Users\Adminsha\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\bin\Debug\ConsoleBank.exe.config
+C:\Users\Adminsha\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\bin\Debug\ConsoleBank.exe
+C:\Users\Adminsha\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\bin\Debug\ConsoleBank.pdb
+C:\Users\Adminsha\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\obj\Debug\ConsoleBank.csproj.AssemblyReference.cache
+C:\Users\Adminsha\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\obj\Debug\ConsoleBank.csproj.CoreCompileInputs.cache
+C:\Users\Adminsha\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\obj\Debug\ConsoleBank.exe
+C:\Users\Adminsha\Desktop\МДК 02.01 Программисты 1 курс\Разработки\№1 Консоль линейная банковская задача\ConsoleBank\obj\Debug\ConsoleBank.pdb

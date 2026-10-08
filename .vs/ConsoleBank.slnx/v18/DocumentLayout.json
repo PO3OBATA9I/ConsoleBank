@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adminsha\\Desktop\\\u041C\u0414\u041A 02.01 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u044B 1 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438\\\u21161 \u041A\u043E\u043D\u0441\u043E\u043B\u044C \u043B\u0438\u043D\u0435\u0439\u043D\u0430\u044F \u0431\u0430\u043D\u043A\u043E\u0432\u0441\u043A\u0430\u044F \u0437\u0430\u0434\u0430\u0447\u0430\\ConsoleBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B25C6ACF-E810-45AD-BA89-A21EA949010B}|ConsoleBank.csproj|c:\\users\\adminsha\\desktop\\\u043C\u0434\u043A 02.01 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u044B 1 \u043A\u0443\u0440\u0441\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438\\\u21161 \u043A\u043E\u043D\u0441\u043E\u043B\u044C \u043B\u0438\u043D\u0435\u0439\u043D\u0430\u044F \u0431\u0430\u043D\u043A\u043E\u0432\u0441\u043A\u0430\u044F \u0437\u0430\u0434\u0430\u0447\u0430\\consolebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25C6ACF-E810-45AD-BA89-A21EA949010B}|ConsoleBank.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsha\\Desktop\\\u041C\u0414\u041A 02.01 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u044B 1 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438\\\u21161 \u041A\u043E\u043D\u0441\u043E\u043B\u044C \u043B\u0438\u043D\u0435\u0439\u043D\u0430\u044F \u0431\u0430\u043D\u043A\u043E\u0432\u0441\u043A\u0430\u044F \u0437\u0430\u0434\u0430\u0447\u0430\\ConsoleBank\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Adminsha\\Desktop\\\u041C\u0414\u041A 02.01 \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442\u044B 1 \u043A\u0443\u0440\u0441\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438\\\u21161 \u041A\u043E\u043D\u0441\u043E\u043B\u044C \u043B\u0438\u043D\u0435\u0439\u043D\u0430\u044F \u0431\u0430\u043D\u043A\u043E\u0432\u0441\u043A\u0430\u044F \u0437\u0430\u0434\u0430\u0447\u0430\\ConsoleBank\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:32:31.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
